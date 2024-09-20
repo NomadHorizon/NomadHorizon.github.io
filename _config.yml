@@ -1,7 +1,7 @@
 # Site
-name: "NinggraIngga"
-title: "NinggraIngga"
-description: "Discover the world's Hidden Vacation Gems"
+name: "NomadHorizon"
+title: "NomadHorizon"
+description: "Adventure Awaits Around Every Corner"
 logo: '/favicon.ico'
 favicon: '/favicon.ico'
 baseurl: /
@@ -16,6 +16,7 @@ authors:
   admin:
     name: Admin
     display_name: Admin
+    avatar: /faviocon.ico
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: wowthemesnet@gmail.com
     web: /aboutme
@@ -48,7 +49,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 4
+paginate: 6
 paginate_path: /page:num/
     
 # Other
